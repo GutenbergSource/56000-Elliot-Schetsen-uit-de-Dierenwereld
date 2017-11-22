@@ -1,0 +1,92 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="100401" filedate="2017-11-15 21:09:40" width="491px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/plate01.jpg" filesize="135291" filedate="2017-11-15 20:46:50" width="547px" height="720px">
+</image>
+<image path="images/plate01h.jpg" filesize="695446" filedate="2017-11-15 20:51:00" width="1220px" height="1606px">
+</image>
+<image path="images/plate02.jpg" filesize="105384" filedate="2017-11-15 20:55:08" width="545px" height="720px">
+</image>
+<image path="images/plate02h.jpg" filesize="620668" filedate="2017-11-15 20:55:39" width="1219px" height="1611px">
+</image>
+<image path="images/plate03.jpg" filesize="134748" filedate="2017-11-16 20:45:53" width="550px" height="720px">
+</image>
+<image path="images/plate03h.jpg" filesize="749233" filedate="2017-11-16 20:46:20" width="1220px" height="1598px">
+</image>
+<image path="images/plate04.jpg" filesize="85413" filedate="2017-11-16 20:50:06" width="549px" height="720px">
+</image>
+<image path="images/plate04h.jpg" filesize="514445" filedate="2017-11-16 20:50:34" width="1217px" height="1597px">
+</image>
+<image path="images/plate05.jpg" filesize="103688" filedate="2017-11-16 20:54:28" width="547px" height="720px">
+</image>
+<image path="images/plate05h.jpg" filesize="593015" filedate="2017-11-16 20:54:52" width="1217px" height="1602px">
+</image>
+<image path="images/plate06.jpg" filesize="124671" filedate="2017-11-17 18:52:54" width="543px" height="720px">
+</image>
+<image path="images/plate06h.jpg" filesize="715816" filedate="2017-11-17 18:53:21" width="1221px" height="1617px">
+</image>
+<image path="images/plate07.jpg" filesize="124607" filedate="2017-11-17 18:56:17" width="546px" height="720px">
+</image>
+<image path="images/plate07h.jpg" filesize="694994" filedate="2017-11-17 18:56:42" width="1224px" height="1614px">
+</image>
+<image path="images/plate08.jpg" filesize="95347" filedate="2017-11-17 18:59:44" width="542px" height="720px">
+</image>
+<image path="images/plate08h.jpg" filesize="605207" filedate="2017-11-17 19:00:07" width="1211px" height="1609px">
+</image>
+<image path="images/plate09.jpg" filesize="129818" filedate="2017-11-17 19:03:17" width="547px" height="720px">
+</image>
+<image path="images/plate09h.jpg" filesize="727215" filedate="2017-11-17 19:03:42" width="1224px" height="1613px">
+</image>
+<image path="images/plate10.jpg" filesize="130055" filedate="2017-11-17 19:06:32" width="550px" height="720px">
+</image>
+<image path="images/plate10h.jpg" filesize="726762" filedate="2017-11-17 19:06:56" width="1220px" height="1595px">
+</image>
+<image path="images/plate11.jpg" filesize="97145" filedate="2017-11-18 09:53:36" width="545px" height="720px">
+</image>
+<image path="images/plate11h.jpg" filesize="578359" filedate="2017-11-18 09:54:02" width="1221px" height="1612px">
+</image>
+<image path="images/plate12.jpg" filesize="87596" filedate="2017-11-18 09:57:22" width="544px" height="720px">
+</image>
+<image path="images/plate12h.jpg" filesize="546216" filedate="2017-11-18 09:57:45" width="1215px" height="1607px">
+</image>
+<image path="images/plate13.jpg" filesize="130699" filedate="2017-11-18 10:02:05" width="546px" height="720px">
+</image>
+<image path="images/plate13h.jpg" filesize="684596" filedate="2017-11-18 10:02:36" width="1216px" height="1603px">
+</image>
+<image path="images/plate14.jpg" filesize="110470" filedate="2017-11-18 10:08:09" width="553px" height="720px">
+</image>
+<image path="images/plate14h.jpg" filesize="678392" filedate="2017-11-18 10:08:33" width="1226px" height="1596px">
+</image>
+<image path="images/plate15.jpg" filesize="113220" filedate="2017-11-18 10:11:32" width="548px" height="720px">
+</image>
+<image path="images/plate15h.jpg" filesize="652562" filedate="2017-11-18 10:11:56" width="1231px" height="1617px">
+</image>
+<image path="images/plate16.jpg" filesize="102603" filedate="2017-11-18 10:15:15" width="545px" height="720px">
+</image>
+<image path="images/plate16h.jpg" filesize="579714" filedate="2017-11-18 10:15:40" width="1220px" height="1613px">
+</image>
+<image path="images/plate17.jpg" filesize="106470" filedate="2017-11-18 19:19:40" width="551px" height="720px">
+</image>
+<image path="images/plate17h.jpg" filesize="604523" filedate="2017-11-18 19:20:05" width="1213px" height="1586px">
+</image>
+<image path="images/plate18.jpg" filesize="114878" filedate="2017-11-18 19:24:08" width="551px" height="720px">
+</image>
+<image path="images/plate18h.jpg" filesize="644094" filedate="2017-11-18 19:24:34" width="1224px" height="1600px">
+</image>
+<image path="images/plate19.jpg" filesize="114761" filedate="2017-11-18 19:27:32" width="544px" height="720px">
+</image>
+<image path="images/plate19h.jpg" filesize="670511" filedate="2017-11-18 19:27:53" width="1219px" height="1613px">
+</image>
+<image path="images/plate20.jpg" filesize="90864" filedate="2017-11-18 19:31:41" width="549px" height="720px">
+</image>
+<image path="images/plate20h.jpg" filesize="524279" filedate="2017-11-18 19:32:06" width="1213px" height="1590px">
+</image>
+<image path="images/titlepage.png" filesize="7594" filedate="2017-11-15 21:17:54" width="534px" height="720px">
+</image>
+</images>
